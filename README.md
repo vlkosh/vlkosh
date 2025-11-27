@@ -13,8 +13,8 @@
 ### 📈 My stats:
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FIZIS-net&show_icons=true&theme=dark" width = 376>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=FIZIS-net&theme=dark" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=vlkosh&show_icons=true&theme=dark" width = 376>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=vlkosh&theme=dark" width = 400>
 </div>
 
 ### 🛠️ Languages and development tools:
@@ -33,4 +33,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 </div>
 
-![](https://komarev.com/ghpvc/?username=FIZIS-net)
+![](https://komarev.com/ghpvc/?username=vlkosh)
